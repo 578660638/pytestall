@@ -29,8 +29,8 @@ head = {
     singleIp:切换,0=切换，1=不切换
 """
 
-orderId = "O20022214450138487084"
-secret = "b98bc5bd56ef1ab23dfe0de6454e1e73"
+orderId = "O2】"
+secret = "b98】"
 num = "1"
 pid = "-1"
 cid = ""
